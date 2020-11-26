@@ -5,6 +5,10 @@
 
     <name> -- Farid Dizjik-- <twitter>
     Email: fyd1980@gmail.com
+<<<<<<< HEAD
+=======
+    DOB:4/5/1977
+>>>>>>> develop
 
 # THANKS
 
