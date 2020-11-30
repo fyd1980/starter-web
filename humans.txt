@@ -4,6 +4,7 @@
 # TEAM
 
     <name> -- Farid Dizjikan-- <twitter>
+    Cyber Security Specialist and DevOps Engineer
     Email: fyd1980@gmail.com
     DOB:4/5/1977
 
