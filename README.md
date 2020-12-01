@@ -16,3 +16,4 @@ Comparing Work Directory and Git Repo
 Comparing Staging Area with Repository
 
 Fork the Repo and Raise request for the review
+## Git Rebasing
